@@ -1,0 +1,8 @@
+Python is a high level general purpose language
+Multi - paradigm language
+    1.Object oriented
+    2.Functional Programming
+    3.Structural Programming
+    4.Procedural Programming
+
+    1991 guido van russom
